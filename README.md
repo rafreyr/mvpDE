@@ -4,6 +4,6 @@ Este é um repositório para o MVP para a sprint de Engenharia de Dados da pós-
 
 O MVP foi desenvolvido utilizando pyspark e sql no Databricks para realizar uma análise da indústria internacional de produção de filmes.
 
-Para mais detalhes, consulte o documento de projeto:
+Para mais detalhes, consulte o documento de projeto: mvpDE[documentação].pdf
 
 Também estão disponíveis os notebooks originais e suas saídas, além de imagens ilustrativas e diversos screenshots do processo.
