@@ -6,4 +6,4 @@ O MVP foi desenvolvido utilizando pyspark e sql no Databricks para realizar uma 
 
 Para mais detalhes, consulte o documento de projeto: [mvpDE[documentação].pdf ](https://github.com/rafreyr/mvpDE/blob/main/mvpDE%5Bdocumentac%CC%A7a%CC%83o%5D.pdf)
 
-Também estão disponíveis os notebooks originais e suas saídas, além de imagens ilustrativas e diversos screenshots do processo.
+Também estão disponíveis os [notebooks originais e suas saídas](https://github.com/rafreyr/mvpDE/tree/main/notebooks), além de [imagens ilustrativas e diversos screenshots](https://github.com/rafreyr/mvpDE/tree/main/images) do projeto.
